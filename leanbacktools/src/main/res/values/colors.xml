@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFF</color>
+    <color name="transparent">#0000</color>
+    <color name="button_tv_action_focused">#555</color>
+</resources>

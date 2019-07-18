@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="footer_margin_start">56dp</dimen>
+    <dimen name="footer_margin_end">208dp</dimen>
+
+    <dimen name="hint_padding_left">56dp</dimen>
+    <dimen name="hint_padding_vertical">16dp</dimen>
+</resources>
